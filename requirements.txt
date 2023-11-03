@@ -3,6 +3,7 @@ streamlit-drawable-canvas
 torch
 torchvision
 Pillow
+matplotlib
 
 
 
