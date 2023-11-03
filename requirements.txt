@@ -1,9 +1,7 @@
-streamlit
+opencv-contrib-python-headless
+streamlit-drawable-canvas
 torch
 torchvision
-streamlit_drawable_canvas
-opencv-python
-opencv-contrib-python
 Pillow
 matplotlib
 
