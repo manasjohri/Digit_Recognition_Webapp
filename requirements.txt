@@ -1,0 +1,12 @@
+opencv-python
+streamlit-drawable-canvas
+torch
+torchvision
+Pillow
+
+
+
+
+
+
+
